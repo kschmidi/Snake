@@ -1,0 +1,40 @@
+Spielanleitung
+Ziel ist es mit der Schlange
+soviele Punkte einzusammeln 
+wie nur möglich. Dazu muss
+man die Schlange nur auf die 
+grünen Punkte zusteuern. Je 
+mehr Punkte man gesammelt hat, 
+umso grösser wird die Schlange. 
+Die Schlange kann sich mit 
+unterschiedlichen Geschwindigkeiten 
+bewegen, welche bei Schwierigkeit 
+eingestellt werden kann.
+
+Tastenbelegungen
+Pfeiltasten steuern die Schlange
+<	- Links
+>	- Rechts
+^	- Nach oben
+v	- Nach unten
+ 
+N	- Neues Spiel
+	  Nur bei Pause oder
+	  Spiel beendet
+	  
+S	- Start
+P	- Pause
+
+Schwierigkeit mit 1 - 5
+Wurde die Schwirigkeit erhöht,
+kann nicht mehr zurück
+gewechselt werden. Einfach nur 
+einstellbar bei mittel, welches
+als default Schwierigkeit
+eingestell ist.
+
+1	- Einfach
+2	- Mittel
+3	- Schwer
+4	- Schwerer
+5	- Krank
