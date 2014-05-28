@@ -73,7 +73,7 @@ public class Playground extends JLabel{
 
 		// Paint snake
 		for(Position pos : snake.getSnakePosition()){
-			g.setColor(Color.BLUE);
+			g.setColor(Color.RED);
 			g.fillRect(pos.getX(), pos.getY(), Snake.SNAKE_X_SIZE, Snake.SNAKE_Y_SIZE);
 			g.setColor(Color.BLACK);
 			g.drawRect(pos.getX(), pos.getY(), Snake.SNAKE_X_SIZE, Snake.SNAKE_Y_SIZE);
